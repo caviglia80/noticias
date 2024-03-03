@@ -27,6 +27,6 @@ export class AppComponent {
         this.loading = false;
       })
     }, 1000);
-    
+
   }
 }
